@@ -17,4 +17,8 @@ Each spin randomly gives the player either a **🎁 Gift** or a **😈 Punishmen
 ---
 
 ## 📁 Project Structure
-
+fun-wheel-game/                                                                                                                                                          
+│── index.html                                                                                                                              
+│── style.css                                                                                                    
+│── script.js                                                                                          
+│── README.md                                                                                                                    
