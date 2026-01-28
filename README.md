@@ -22,3 +22,50 @@ fun-wheel-game/
 │── style.css                                                                                                    
 │── script.js                                                                                          
 │── README.md                                                                                                                    
+
+---
+
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure  
+- **CSS3** – Styling & Animation  
+- **JavaScript (ES6)** – Game Logic  
+
+---
+
+## ▶️ How to Run the Project
+
+1. Download or clone this repository  
+2. Open the folder  
+3. Double-click `index.html`  
+4. Enjoy spinning the wheel 🎉  
+
+_No installation or internet required._
+
+---
+
+## 🎯 Game Rules
+
+1. Click on **SPIN 🎉**  
+2. The wheel spins randomly  
+3. You get:
+   - 🎁 **Gift** → Enjoy your reward  
+   - 😈 **Punishment** → Complete the task  
+
+---
+
+## ✏️ Customize the Game
+
+You can easily edit gifts & punishments inside `script.js`:
+
+```js
+let sections = [
+  { type: "🎁 GIFT", text: "Free Chocolate 🍫" },
+  { type: "😈 PUNISHMENT", text: "10 Push-ups 💪" }
+];
+
+---
+
