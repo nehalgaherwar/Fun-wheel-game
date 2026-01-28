@@ -66,7 +66,7 @@ let sections = [
   { type: "🎁 GIFT", text: "Free Chocolate 🍫" },
   { type: "😈 PUNISHMENT", text: "10 Push-ups 💪" }
 ];
-
+```
 ---
 
 # 🌟 Future Improvements
