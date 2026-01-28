@@ -69,3 +69,21 @@ let sections = [
 
 ---
 
+# 🌟 Future Improvements
+
+🔊 Sound effects
+
+✍️ User input for custom tasks
+
+🌓 Dark / Light mode
+
+🏆 Score or history tracking
+
+---
+
+# 📜 License
+
+This project is open-source and free to use for learning and fun.
+
+#👨‍💻 Made with ❤️ by Nehal Gaherwar
+
