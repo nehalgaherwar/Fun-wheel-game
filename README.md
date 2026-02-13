@@ -1,4 +1,4 @@
-# 🎡 Gift vs Punishment – Fun Wheel Game
+# 🎡 Gift vs Punishment – Fun Wheel Games
 
 A fun and interactive **Spin the Wheel game** built using **HTML, CSS, and JavaScript**.  
 Each spin randomly gives the player either a **🎁 Gift** or a **😈 Punishment**, making it perfect for parties, classroom games, or just time-pass fun.
@@ -36,7 +36,7 @@ fun-wheel-game/
 
 ---
 
-## ▶️ How to Run the Project
+## ▶️ How to Run the Project.
 
 1. Download or clone this repository  
 2. Open the folder  
